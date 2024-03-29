@@ -1,6 +1,7 @@
 # base
 ipykernel
 virtualenv
+prettyprint
 black
 requests
 panda
@@ -52,4 +53,16 @@ proxy.py
 #googlethis
 MechanicalSoup
 GoogleScraper
+
+duckduckgo_search
+scrapy
+readability-lxml
+beautifulsoup4
+gensim==3.6.0
+
+#bs4
+lxml
+
+
+pyquery
 #git+git://github.com/NikolaiT/GoogleScraper/
