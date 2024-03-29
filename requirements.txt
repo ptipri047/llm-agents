@@ -1,0 +1,54 @@
+# base
+ipykernel
+virtualenv
+black
+requests
+panda
+numpy
+matplotlib
+python-dotenv
+
+pypdf
+pdfminer
+PyPDF2
+
+# langchain 
+langchain
+langchain-community
+ctransformers
+ctransformers[cuda]
+transformers
+accelerate
+huggingface_hub
+
+google-generativeai
+langchain_google_genai
+
+llama-cpp-python
+
+
+
+# ui
+streamlit
+
+# vector database   
+pinecone-client 
+faiss-cpu
+
+# dspy
+dspy-ai[chromadb]
+
+# together llm provider
+#together
+
+# proxy
+proxy.py
+
+
+# google tool
+#parsel
+#httpx[http2]
+#googlethis
+MechanicalSoup
+GoogleScraper
+#git+git://github.com/NikolaiT/GoogleScraper/

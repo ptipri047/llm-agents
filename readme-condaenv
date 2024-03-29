@@ -1,0 +1,25 @@
+# conda
+install miniconda
+need to restart computer to have 'conda' accessible from terminal
+
+
+to create new environement
+>conda create -n pti python==3.12
+>conda activate pti
+
+to delete environement
+>conda remove --name pti --all
+
+to list environement:
+>conda info -e
+
+to list package in environement
+> conda list -n pti
+
+# pip
+pip install -r requirements.txt
+
+# select environement
+ctrl shift p pour lancer la palette
+taper 'python select interpreter'
+choisir l'environnement conda crée

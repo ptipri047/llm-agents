@@ -1,0 +1,4 @@
+archi,size,repoid,modelfile
+gguf,tiny,emir12/tiny_llama-1.1b-v2.gguf,tiny_llama-1.1b-v2.gguf
+gguf,normal,TheBloke/Llama-2-7B-GGUF,llama-2-7b.Q4_K_M.gguf
+ollama,normal,tinydolphin,

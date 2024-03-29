@@ -1,0 +1,25 @@
+# plugins
+
+## REPL
+
+show you the code result as you type
+gives you a red mask icon at top of your py window
+
+## docs view
+
+# multi selection edit in VS code
+
+select the part you want to multi-edit
+
+you may:
+  hold ALT
+  with mouse select other similars you want to edit as well
+
+  or press CTRL-D multiple times to select others...
+
+then your can edit alls in one shot
+
+# menu principal
+
+> File>Autosave
+> 
